@@ -7,7 +7,7 @@ CONFIG_FILE="$CONFIG_DIR/repo.conf"
 GPG_KEY_FILE=""
 key_id=""
 origin=""
-label=""
+label="timbos repo"
 codename=""
 description=""
 
