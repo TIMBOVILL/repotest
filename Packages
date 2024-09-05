@@ -1,0 +1,18 @@
+Package: com.timbovill.exdesign
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: TIMBOVILL
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.timbovill.exdesign_iphoneos-arm64.deb
+Size: 927384
+MD5sum: 083a31156286c14c8c1c617e5447871a
+SHA1: 7755743399af1dd41578734440e5669875533d7b
+SHA256: effd41cdd5420188a7ba2941f7ff2ec6a877ca5ebb085cda148169a837a861dd
+SHA512: 64147a51fac68f4aa1e651b3296e79ba876243aeec3115932a658f4170605bafaf44937b35b67dd8ed9a3b6dbc7877a3f6b79b590cfdb9383945c3bc46613507
+Description: Design without consistency.
+Name: Exdesign
+Author: Exodus & TIMBOVILL
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.exdesign
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.exdesign/depiction.json
+
