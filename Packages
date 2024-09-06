@@ -16,3 +16,20 @@ Author: Exodus & TIMBOVILL
 Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.exdesign
 SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.exdesign/depiction.json
 
+Package: com.timbovill.nomcchatfilter
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: TIMBOVILL
+Filename: ./debians/com.timbovill.nomcchatfilter_iphoneos-arm64.deb
+Size: 1068
+MD5sum: b377c6d0f149494462911fb98632061a
+SHA1: 2aeee429117eb5a75781d06690697c61121bc333
+SHA256: 8856e1716ee3f690bf28bdb398ed161d5d36fd57b01daf390175d79321b48950
+SHA512: 806da2d3698a6937e8f2e50c5b549a8ae4edb27ddb78434914a0d30d09d223d4e54092f7caee2bdf18453a695298160f7c04a6597d347cbf374d645e02b64d54
+Description: Removes the chat filter from Minecraft!
+Name: No Minecraft Chat Filter
+Author: TIMBOVILL
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.nomcchatfilter
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.nomcchatfilter/depiction.json
+
