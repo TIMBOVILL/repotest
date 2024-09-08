@@ -1,0 +1,85 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/shitboard.png",
+	"tintColor": "#654321",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Shitboard\na "very good" snowboard ios theme\nHosted on this repo with permission from reticivis.(melody)\nThere is now rootless support!"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "9/7/21",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Melody",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Website",
+					"action": "https://github.com/reticivis-net/shitboard",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Use This Template",
+					"action": "https://github.com/uchks/repo.me",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\usettings icons and more apps !",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 9/13/21</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

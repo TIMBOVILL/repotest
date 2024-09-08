@@ -8,6 +8,12 @@
         "title": "Exdesign",
         "package": "com.timbovill.exdesign",
         "hideShadow": false
+    },
+    {
+        "url": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/shitboard.png",
+        "title": "Shitboard",
+        "package": "com.melody.shitboard",
+        "hideShadow": false
     }
   ]
 }
