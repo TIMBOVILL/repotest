@@ -5,13 +5,13 @@
   "banners": [
     {
         "url": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/LiquidglAss.png",
-        "title": "",
+        "title": " ",
         "package": "com.timbovill.liquidglass",
         "hideShadow": false
     },
     {
         "url": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/shitboard.png",
-        "title": "",
+        "title": " ",
         "package": "com.melody.shitboard",
         "hideShadow": false
     }
