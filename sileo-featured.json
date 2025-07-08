@@ -4,14 +4,14 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/Exdesign.png.png",
-        "title": "Exdesign",
-        "package": "com.timbovill.exdesign",
+        "url": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/LiquidglAss.png",
+        "title": "",
+        "package": "com.timbovill.liquidglass",
         "hideShadow": false
     },
     {
         "url": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/shitboard.png",
-        "title": "Shitboard",
+        "title": "",
         "package": "com.melody.shitboard",
         "hideShadow": false
     }

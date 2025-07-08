@@ -1,14 +1,14 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/shitboard.png",
-	"tintColor": "#964B00",
+	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/LiquidglAss.png",
+	"tintColor": "#ffffff",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Shitboard\na "very good" snowboard ios theme\nHosted on this repo with permission from reticivis.(melody)\nThere is now rootless support!"
+					"markdown": "## Liquid glAss\nSnowboard theme of the clear liquid glass of iOS 26. Features the real clear variants of the Apple icons, custom made 3rd party icons (no crappy white glyphs like the real iOS 26!) and in total has almost 150 icons!"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,12 +19,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.2",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "9/7/21",
+					"text": "7/7/25",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -34,12 +34,12 @@
 				},
 				{
 					"title": "Developer",
-					"text": "Melody",
+					"text": "TIMBOVILL & Apple",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "https://github.com/reticivis-net/shitboard",
+					"action": "WEBSITE_HERE",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -62,18 +62,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.2",
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\usettings icons and more apps !",
+					"markdown": "\t\n\u2025 snowboard theme, release!",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 9/13/21</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 7/7/25</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

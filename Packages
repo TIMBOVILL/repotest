@@ -16,6 +16,24 @@ Author: melody
 Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.melody.shitboard
 SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.melody.shitboard/depiction.json
 
+Package: com.timbovill.liquidglass
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: TIMBOVILL
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.timbovill.LiquidglAss-arm64.deb
+Size: 4312728
+MD5sum: 5222871008e82457b6e8378c379902ef
+SHA1: 7564dda1ce6b4f06d1d4763da9d16fe9071983db
+SHA256: 75d6cf3f1e501b156aa3194ca83a9b89b7af3d7c1106cbdb82f6a8d1d5ae7cee
+SHA512: 0f23bd87e3102ab4eeb6ae3a4b0529f6cd9c5c00703091500959451397c9b24266777658a856df290a16ee366a5be9d8257ee7440d72ce4d5aef7558974decb0
+Description: Liquid Glass icons on Snowboard!
+Name: Liquid glAss
+Author: TIMBOVILL, Apple
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.liquidglass
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.liquidglass/depiction.json
+
 Package: com.timbovill.exdesign
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -33,21 +51,4 @@ Name: Exdesign
 Author: Exodus & TIMBOVILL
 Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.exdesign
 SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.exdesign/depiction.json
-
-Package: com.timbovill.nomcchatfilter
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: TIMBOVILL
-Filename: ./debians/com.timbovill.nomcchatfilter_iphoneos-arm64.deb
-Size: 1068
-MD5sum: b377c6d0f149494462911fb98632061a
-SHA1: 2aeee429117eb5a75781d06690697c61121bc333
-SHA256: 8856e1716ee3f690bf28bdb398ed161d5d36fd57b01daf390175d79321b48950
-SHA512: 806da2d3698a6937e8f2e50c5b549a8ae4edb27ddb78434914a0d30d09d223d4e54092f7caee2bdf18453a695298160f7c04a6597d347cbf374d645e02b64d54
-Description: Removes the chat filter from Minecraft!
-Name: No Minecraft Chat Filter
-Author: TIMBOVILL
-Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.nomcchatfilter
-SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.nomcchatfilter/depiction.json
 
