@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Liquid glAss\nSnowboard theme of the clear liquid glass of iOS 26. Features the real clear variants of the Apple icons, custom made 3rd party icons (no crappy white glyphs like the real iOS 26!) and in total has almost 150 icons!"
+					"markdown": "## Liquid glAss\nSnowboard theme of the clear liquid glass of iOS 26. Features the real clear variants of the Apple icons, custom made 3rd party icons (no crappy white glyphs like the real iOS 26!) and in total over 200 icons!"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -38,14 +38,9 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/uchks/repo.me",
-					"class": "DepictionTableButtonView"
+					"title": "Icons",
+					"text": "210",
+					"class": "DepictionTableTextView"
 				},
 				{
 					"spacing": 16,

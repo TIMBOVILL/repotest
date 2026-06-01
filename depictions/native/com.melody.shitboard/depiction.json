@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Shitboard\na "very good" snowboard ios theme\nHosted on this repo with permission from reticivis.(melody)\nThere is now rootless support!"
+					"markdown": "## Shitboard\na "very good" snowboard ios theme\nHosted on this repo with permission from reticivis.(melody)\nThere is now rootless support!\nPermission to rehost this theme was given by the creator themselves."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -38,14 +38,9 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "https://github.com/reticivis-net/shitboard",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/uchks/repo.me",
-					"class": "DepictionTableButtonView"
+					"title": "Icons",
+					"text": "58",
+					"class": "DepictionTableTextView"
 				},
 				{
 					"spacing": 16,

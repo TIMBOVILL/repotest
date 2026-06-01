@@ -1,0 +1,51 @@
+Package: com.melody.shitboard
+Name: shitboard theme
+Version: 1.2
+Architecture: iphoneos-arm64
+Description: a "very good" theme
+Author: melody
+Maintainer: melody
+Section: Themes
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.melody.shitboard
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.melody.shitboard/depiction.json
+Depends: com.spark.snowboard, com.spark.snowboard.settingsicons, com.spark.snowboard.masks, com.spark.snowboard.ui
+Filename: debians/com.melody.shitboard-iphoneos-arm64.deb
+Size: 855380
+MD5sum: d031307f5722d8b3664603cca10c19f7
+SHA1: 0b4708be25b2cc1198b2afe1f78a3714b86b2a40
+SHA256: 44654367331c006f62ef087c2d39b60a9c9a149754049eb408bb7dd2206068ab
+
+Package: com.timbovill.liquidglass
+Name: Liquid glAss
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Liquid Glass icons on Snowboard!
+Author: TIMBOVILL, Apple
+Maintainer: TIMBOVILL
+Section: Themes
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.liquidglass
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.liquidglass/depiction.json
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debians/com.timbovill.LiquidglAss-arm64.deb
+Size: 4352896
+MD5sum: 8dd2e93306e9d1e78698349ef1975f20
+SHA1: 4ea15fbb3e48045572d6514300c636c2d38a096f
+SHA256: 077d406851791b0f437a7b97ac86eae6f58b65b6540833966a944a5b601fd8f2
+
+Package: com.timbovill.exdesign
+Name: Exdesign
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Design without consistency.
+Author: Exodus & TIMBOVILL
+Maintainer: TIMBOVILL
+Section: Themes
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.exdesign
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.exdesign/depiction.json
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debians/com.timbovill.exdesign_iphoneos-arm64.deb
+Size: 927384
+MD5sum: 083a31156286c14c8c1c617e5447871a
+SHA1: 7755743399af1dd41578734440e5669875533d7b
+SHA256: effd41cdd5420188a7ba2941f7ff2ec6a877ca5ebb085cda148169a837a861dd
+

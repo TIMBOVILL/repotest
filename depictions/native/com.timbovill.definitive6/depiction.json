@@ -1,14 +1,14 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/nochatfilter.png",
-	"tintColor": "#53a865",
+	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/LiquidglAss.png",
+	"tintColor": "#496486",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## No Minecraft Chat Filter\nRemoves the chat and sign filter from Minecraft!\n(bonus feature: icraze is now filtered)"
+					"markdown": "## Definitive6\nIcon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons with alternatives. Check my repo site if you need wallpapers or tips on using the theme properly."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -24,7 +24,7 @@
 				},
 				{
 					"title": "Released",
-					"text": "9/5/24",
+					"text": "6/3/26",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -38,14 +38,9 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/uchks/repo.me",
-					"class": "DepictionTableButtonView"
+					"title": "Icons",
+					"text": "110+10",
+					"class": "DepictionTableTextView"
 				},
 				{
 					"spacing": 16,
@@ -68,12 +63,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2024 release :supershocked: :fr: :3",
+					"markdown": "\t\n\u2025 snowboard theme, release!",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 9/5/24</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 7/7/25</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

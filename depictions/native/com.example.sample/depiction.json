@@ -38,16 +38,6 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/uchks/repo.me",
-					"class": "DepictionTableButtonView"
-				},
-				{
 					"spacing": 16,
 					"class": "DepictionSpacerView"
 				},

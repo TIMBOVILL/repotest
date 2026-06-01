@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/Exdesign.png.png",
+	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/Exdesign.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
@@ -36,16 +36,6 @@
 					"title": "Developer",
 					"text": "Exodus & TIMBOVILL",
 					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/uchks/repo.me",
-					"class": "DepictionTableButtonView"
 				},
 				{
 					"spacing": 16,
