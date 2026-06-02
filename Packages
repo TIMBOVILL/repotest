@@ -15,6 +15,42 @@ MD5sum: d031307f5722d8b3664603cca10c19f7
 SHA1: 0b4708be25b2cc1198b2afe1f78a3714b86b2a40
 SHA256: 44654367331c006f62ef087c2d39b60a9c9a149754049eb408bb7dd2206068ab
 
+Package: com.timbovill.definitive6
+Name: Definitive6
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons, including alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.
+Author: TIMBOVILL
+Maintainer: TIMBOVILL
+Section: Themes
+Icon: https://timbovill.github.io/repotest/assets/repo/Icons/Definitive6.png
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.definitive6
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.definitive6/depiction.json
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debians/com.timbovill.Definitive6-arm.deb
+Size: 10209376
+MD5sum: 966061d3300864f8d542f6befe9221da
+SHA1: 8730ab11cef5bd4c65390b075ddca32f404da7ef
+SHA256: e30d4d1e156c2598eaacce1451e70e4c58c19724176eb38c5d1d1687e7ee2921
+
+Package: com.timbovill.definitive6
+Name: Definitive6
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons, including alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.
+Author: TIMBOVILL
+Maintainer: TIMBOVILL
+Section: Themes
+Icon: https://timbovill.github.io/repotest/assets/repo/Icons/Definitive6.png
+Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.definitive6
+SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.definitive6/depiction.json
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debians/com.timbovill.Definitive6-arm64.deb
+Size: 10210076
+MD5sum: 8d19ba971ff6e48e151102c3fa25b9be
+SHA1: 609cb1599af92cc7b2c8030eee92b779d506c0de
+SHA256: c84ec61a8f909e4409e305b4e6ea3117e8194496db6a9844b16b11d460e72b6b
+
 Package: com.timbovill.liquidglass
 Name: Liquid glAss
 Version: 1.0

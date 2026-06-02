@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/LiquidglAss.png",
+	"headerImage": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/Definitive6.png",
 	"tintColor": "#496486",
 	"tabs": [
 		{
@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Definitive6\nIcon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons with alternatives. Check my repo site if you need wallpapers or tips on using the theme properly."
+					"markdown": "## Definitive6\nIcon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons, including alternatives. Check my repo site if you need wallpapers or tips on using the theme properly." 
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -24,7 +24,7 @@
 				},
 				{
 					"title": "Released",
-					"text": "6/3/26",
+					"text": "6/2/26",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"title": "Icons",
-					"text": "110+10",
+					"text": "100+6",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -63,12 +63,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2025 snowboard theme, release!",
+					"markdown": "\t\n\u Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 7/7/25</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 6/2/26</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
