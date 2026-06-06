@@ -4,6 +4,12 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+        "url": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/Definitive6v2.png",
+        "title": " ",
+        "package": "com.timbovill.definitive6",
+        "hideShadow": false
+    },
+    {
         "url": "https://raw.githubusercontent.com/TIMBOVILL/repotest/main/assets/repo/Banners/LiquidglAss.png",
         "title": " ",
         "package": "com.timbovill.liquidglass",

@@ -17,9 +17,9 @@ SHA256: 44654367331c006f62ef087c2d39b60a9c9a149754049eb408bb7dd2206068ab
 
 Package: com.timbovill.definitive6
 Name: Definitive6
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
-Description: Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons, including alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.
+Description: Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 130 icons, including alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.
 Author: TIMBOVILL
 Maintainer: TIMBOVILL
 Section: Themes
@@ -28,16 +28,16 @@ Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.
 SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.definitive6/depiction.json
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: debians/com.timbovill.Definitive6-arm.deb
-Size: 10209376
-MD5sum: 966061d3300864f8d542f6befe9221da
-SHA1: 8730ab11cef5bd4c65390b075ddca32f404da7ef
-SHA256: e30d4d1e156c2598eaacce1451e70e4c58c19724176eb38c5d1d1687e7ee2921
+Size: 13276488
+MD5sum: fd61f12f198a6473afbb6ad0ce612400
+SHA1: a8b02c3db39a5434b96cc2acd1a994e2659d61b9
+SHA256: df5949b64c2a1b1714e2c356c4ca2ccd798d929a670459ce17b84311deda02c5
 
 Package: com.timbovill.definitive6
 Name: Definitive6
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm64
-Description: Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons, including alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.
+Description: Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 130 icons, including alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.
 Author: TIMBOVILL
 Maintainer: TIMBOVILL
 Section: Themes
@@ -46,10 +46,10 @@ Depiction: https://timbovill.github.io/repotest/depictions/web/?p=com.timbovill.
 SileoDepiction: https://timbovill.github.io/repotest/depictions/native/com.timbovill.definitive6/depiction.json
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: debians/com.timbovill.Definitive6-arm64.deb
-Size: 10210076
-MD5sum: 8d19ba971ff6e48e151102c3fa25b9be
-SHA1: 609cb1599af92cc7b2c8030eee92b779d506c0de
-SHA256: c84ec61a8f909e4409e305b4e6ea3117e8194496db6a9844b16b11d460e72b6b
+Size: 13276800
+MD5sum: 11696aa7670f5a9e873620b8c6b7ce35
+SHA1: a14e7d8e6847a0b2fb408d74ef148223fa39ce2e
+SHA256: c7bda96e06f0ce9d657da1983a9291bdf4236b522824f78e4a2d7b832cc603dd
 
 Package: com.timbovill.liquidglass
 Name: Liquid glAss

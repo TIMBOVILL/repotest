@@ -1,18 +1,18 @@
 <package>
 	<id>com.example.package</id>
 	<name>Definitive6</name>
-	<version>1.0</version>
+	<version>2.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>14.0</miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons with alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.</shortDescription>
+	<shortDescription>Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 130 icons with alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.</shortDescription>
 	<descriptionlist>
-		<description>Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 100 icons with alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.</description>
+		<description>Icon and Snowboard theme to replicate the skeuomorphism of classic iOS! There is over 130 icons with alternatives. Check my repo site if you need wallpapers or tips on using the theme properly.</description>
 	</descriptionlist>
 	<changelog>
-		<change>‥ snowboard theme, release!</change>
+		<change>Adds 35 unique icons, fixes accuracy on some old ones, and introduces 10 more alts.</change>
 	</changelog>
 	<links>
 		<link>
